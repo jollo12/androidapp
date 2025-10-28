@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "My App"
 include(":app")
-include(":app:w07")
+include(":app:w01")
+include(":app:w03")
+include(":app:w06")
